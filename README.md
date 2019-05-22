@@ -5,4 +5,4 @@ Tensorflow implementation of "Deeply-Recursive Convolutional Network for Image S
 <br>tensorflow 1.9.0 
 <br>The training set is '291'
 
-Any question can ask never_look_back6@163.com
+Email: never_look_back6@163.com
